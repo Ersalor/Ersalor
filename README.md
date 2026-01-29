@@ -19,7 +19,7 @@ A backend system designed to manage service bookings using object-oriented princ
 - **Status:** In Progress (Planning integration with SQL Server & Spring Boot)
 - **Tech:** Java (OOP)
 
-### [Emergency Bag Assistant](https://github.com/Ersalor/earthquake-bag)
+### [Emergency Bag Assistant](https://github.com/Ersalor/emergency-bag-assistant)
 A Java CLI tool for crisis management, demonstrating proficiency in file handling and logic.
 - **Tech:** Java (I/O, Exception Handling)
 
